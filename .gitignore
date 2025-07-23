@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+
+# Flask instance folder
+instance/
+
+# Docker
+*.log
+
+# Mac
+.DS_Store
+
+# Virtualenv
+venv/
